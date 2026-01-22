@@ -16,6 +16,6 @@ public class DesafioTemperatura {
         int temperaturaEmFahrenheitInteira = (int) temperaturaEmFahrenheit;
         System.out.println("A temperatura em Fahrenheit inteira é: " + temperaturaEmFahrenheitInteira);
         
-        leitura.close(); // Fechar o scanner
+        leitura.close(); // Fechar
     }
 }
